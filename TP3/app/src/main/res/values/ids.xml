@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="checkbox_java" type="id" />
+    <item name="radio_female" type="id" />
+    <item name="radio_male" type="id" />
+    <item name="checkbox_cobol" type="id" />
+    <item name="button_submit" type="id" />
+    <item name="checkbox_perl" type="id" />
+    <item name="checkbox_c" type="id" />
+</resources>
